@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Naveen O V<br>A Go/Backend developer from India
+Resume: https://shorturl.at/tQSzL
 
 
 ## 🌐 Socials:
